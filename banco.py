@@ -5,11 +5,13 @@ TODOS OS DEPOSITOS DEVEM SER ARMAZENADOS EM UMA VARIÁVEL E EXIBIDOS NO EXTRATO.
 OS VALORES DEVEM SER EXIBIDOS FORMATADOS
 '''
 
-menu = '''\nMeu Banco
+menu = '''
+Meu Banco
 [d] Depositar
 [s] Sacar
 [e] Extrato
 [q] Sair
+
 '''
 valor_max = 500
 saque_max = 3
